@@ -1,4 +1,4 @@
-/*
+/* 
 Template Name: WebMag Html Template
 
 Author: yaminncco
@@ -72,7 +72,7 @@ RESPONSIVE
  ul,ol{
      margin: 0;
      padding: 0;
-     list-style: none
+     list-style: none 
 }
  ul.list-style, ol.list-style {
      padding-left: 15px;
@@ -291,7 +291,7 @@ RESPONSIVE
      transition: 0.2s width;
 }
  .nav-menu li.cat-1 a:after {
-     background-color: ;
+     background-color: #4BB92F;
 }
  .nav-menu li.cat-2 a:after {
      background-color: #ff8700;
