@@ -1,3 +1,3 @@
 # Openlabsxai.github.io
 
-Deep learning study session @OpenLabs.ai
+Deep learning study sessions @OpenLabs.ai
